@@ -1,3 +1,4 @@
+#通过cookie绕过登录
 from selenium import webdriver
 from time import sleep
 driver = webdriver.Chrome()
